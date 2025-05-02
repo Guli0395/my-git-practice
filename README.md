@@ -1,4 +1,4 @@
-# this is my project
+# This is my second project
 This is practice repository to learn Git
 ## Features
 - practice git commands
